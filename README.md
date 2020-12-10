@@ -1,2 +1,0 @@
-# jardiancebot
-öyle
